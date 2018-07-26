@@ -19,7 +19,7 @@ and `xarray`.
 
 - [participant-examples/](participant-examples/): examples based on problems
   and questions from participants at the workshop. Includes examples of using
-  Kriging, working with CSV files, regridding and working with BUFR files.
+  Kriging, working with CSV files and regridding.
 
 - [gssti-hpc/](gstti-hpc): examples of what can be done with Python by: 1)
   visualising which PCs are turned on and 2) whether there is internet access
